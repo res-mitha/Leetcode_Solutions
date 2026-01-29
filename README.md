@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
