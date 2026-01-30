@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
