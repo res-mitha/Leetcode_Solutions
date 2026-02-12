@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1873-calculate-special-bonus](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
 |  |
