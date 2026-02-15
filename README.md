@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1280-students-and-examinations](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1280-students-and-examinations) |
 | [1873-calculate-special-bonus](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1873-calculate-special-bonus) |
