@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [1773-count-items-matching-a-rule](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
