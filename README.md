@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [1773-count-items-matching-a-rule](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
