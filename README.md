@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1280-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1757-recyclable-and-low-fat-products](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
 |  |
