@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0290-word-pattern) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2235-add-two-integers) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
