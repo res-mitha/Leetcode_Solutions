@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
