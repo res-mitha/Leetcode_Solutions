@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [1773-count-items-matching-a-rule](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Math
