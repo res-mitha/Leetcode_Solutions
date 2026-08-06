@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0075-sort-colors) |
