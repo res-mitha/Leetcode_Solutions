@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2235-add-two-integers) |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -162,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
