@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -189,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
