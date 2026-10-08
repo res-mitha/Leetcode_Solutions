@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/res-mitha/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
