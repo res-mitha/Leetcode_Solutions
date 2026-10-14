@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/res-mitha/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/res-mitha/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/res-mitha/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/res-mitha/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
